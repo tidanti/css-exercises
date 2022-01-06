@@ -1,0 +1,18 @@
+.odd-common-class {
+    background-color: #ffc0cb; /*pink*/
+    font-family: Verdana, sans-serif;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
+
+#number2 {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+#number4 {
+    background-color: hsl(120, 100%, 80%);
+    font-weight: bold;
+}
