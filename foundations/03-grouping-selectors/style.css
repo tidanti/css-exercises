@@ -1,0 +1,14 @@
+.click-me-btn,
+.click-me-btn-rsv {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click-me-btn {
+    background-color: black;
+    color: white;
+}
+
+.click-me-btn-rsv {
+    background-color: yellow;
+}
